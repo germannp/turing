@@ -15,9 +15,9 @@
    viewBox="0 0 616.53543 620.07873"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="Fig1.svg"
-   inkscape:export-filename="/home/pgermann/Dropbox (CRG)/Projects/Turing/Figures/Fig1.png"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="models.svg"
+   inkscape:export-filename="/home/germann/Projects/turing/Figures/models.png"
    inkscape:export-xdpi="599"
    inkscape:export-ydpi="599">
   <defs
@@ -349,29 +349,31 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="267.08839"
-     inkscape:cy="294.38504"
+     inkscape:cx="199.58839"
+     inkscape:cy="283.38504"
      inkscape:document-units="px"
      inkscape:current-layer="g4417"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1176"
+     inkscape:window-height="1025"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        position="84.28571,620"
        orientation="0,1"
-       id="guide4507" />
+       id="guide4507"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="192.85713,-0.35714286"
        orientation="0,1"
-       id="guide4515" />
+       id="guide4515"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -432,59 +434,59 @@
        width="505.51886" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20.86410904px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="0.057039667"
        y="449.5722"
-       id="text6749-3-6"
-       sodipodi:linespacing="125%"><tspan
+       id="text6749-3-6"><tspan
          sodipodi:role="line"
          id="tspan6751-6-2"
          x="0.057039667"
-         y="449.5722">A</tspan></text>
+         y="449.5722"
+         style="font-size:20.86410904px;line-height:1.25;stroke-linecap:butt;stroke-linejoin:round">A</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20.86410904px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-1.7741748"
        y="578.40698"
-       id="text6749-3-6-1"
-       sodipodi:linespacing="125%"><tspan
+       id="text6749-3-6-1"><tspan
          sodipodi:role="line"
          id="tspan6751-6-2-0"
          x="-1.7741748"
-         y="578.40698">B</tspan></text>
+         y="578.40698"
+         style="font-size:20.86410904px;line-height:1.25;stroke-linecap:butt;stroke-linejoin:round">B</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20.86410904px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-1.0598892"
        y="704.2887"
-       id="text6749-3-6-3"
-       sodipodi:linespacing="125%"><tspan
+       id="text6749-3-6-3"><tspan
          sodipodi:role="line"
          id="tspan6751-6-2-04"
          x="-1.0598892"
-         y="704.2887">C</tspan></text>
+         y="704.2887"
+         style="font-size:20.86410904px;line-height:1.25;stroke-linecap:butt;stroke-linejoin:round">C</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20.86410904px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-1.774175"
        y="829.46716"
-       id="text6749-3-6-4"
-       sodipodi:linespacing="125%"><tspan
+       id="text6749-3-6-4"><tspan
          sodipodi:role="line"
          id="tspan6751-6-2-4"
          x="-1.774175"
-         y="829.46716">D</tspan></text>
+         y="829.46716"
+         style="font-size:20.86410904px;line-height:1.25;stroke-linecap:butt;stroke-linejoin:round">D</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20.86410904px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-1.7741748"
        y="956.32434"
-       id="text6749-3-6-47"
-       sodipodi:linespacing="125%"><tspan
+       id="text6749-3-6-47"><tspan
          sodipodi:role="line"
          id="tspan6751-6-2-6"
          x="-1.7741748"
-         y="956.32434">E</tspan></text>
+         y="956.32434"
+         style="font-size:20.86410904px;line-height:1.25;stroke-linecap:butt;stroke-linejoin:round">E</tspan></text>
     <g
        id="layer1-0"
        inkscape:label="Layer 1"
